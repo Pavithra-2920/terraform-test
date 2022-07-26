@@ -1,5 +1,5 @@
 
-
+#wazsexdrfcghbjnmk,l.;/'.;,lmknjhbygtfcrdxeszwesxdfcgh bjkm,l
 resource "aws_instance" "cosmic" {
 
     ami = var.ami_id
